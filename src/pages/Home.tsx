@@ -1,6 +1,6 @@
 import { Button } from 'react-aria-components';
 
-export function App() {
+export function Home() {
   return (
     <>
       <h1 className="text-4xl font-semibold">Hi! From Yumeno</h1>
